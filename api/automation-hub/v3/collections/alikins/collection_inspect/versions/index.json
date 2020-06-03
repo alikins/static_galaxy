@@ -1,12 +1,12 @@
 {
   "meta": {
-    "count": 29
+    "count": 2
   },
   "links": {
-    "first": "/api/automation-hub/content/automation-hub/v3/collections/alikins/collection_inspect/versions/?limit=10&offset=0",
+    "first": "/api/automation-hub/content/automation-hub/v3/collections/alikins/collection_inspect/versions/",
     "previous": null,
     "next": null,
-    "last": "/api/automation-hub/content/automation-hub/v3/collections/alikins/collection_inspect/versions/?limit=10&offset=19"
+    "last": "/api/automation-hub/content/automation-hub/v3/collections/alikins/collection_inspect/versions/"
   },
   "data": [
     {
@@ -20,62 +20,6 @@
       "version": "0.0.213",
       "certification": "certified",
       "href": "/pulp_ansible/galaxy/automation-hub/api/v3/collections/alikins/collection_inspect/versions/0.0.213/",
-      "created_at": "2020-03-25T18:32:01.732031Z",
-      "updated_at": "2020-03-25T18:32:01.732103Z"
-    },
-    {
-      "version": "0.0.212",
-      "certification": "certified",
-      "href": "/pulp_ansible/galaxy/automation-hub/api/v3/collections/alikins/collection_inspect/versions/0.0.212/",
-      "created_at": "2020-03-25T18:32:01.732031Z",
-      "updated_at": "2020-03-25T18:32:01.732103Z"
-    },
-    {
-      "version": "0.0.211",
-      "certification": "certified",
-      "href": "/pulp_ansible/galaxy/automation-hub/api/v3/collections/alikins/collection_inspect/versions/0.0.211/",
-      "created_at": "2020-03-25T18:32:01.732031Z",
-      "updated_at": "2020-03-25T18:32:01.732103Z"
-    },
-    {
-      "version": "0.0.210",
-      "certification": "certified",
-      "href": "/pulp_ansible/galaxy/automation-hub/api/v3/collections/alikins/collection_inspect/versions/0.0.210/",
-      "created_at": "2020-03-25T18:32:01.732031Z",
-      "updated_at": "2020-03-25T18:32:01.732103Z"
-    },
-    {
-      "version": "0.0.209",
-      "certification": "certified",
-      "href": "/pulp_ansible/galaxy/automation-hub/api/v3/collections/alikins/collection_inspect/versions/0.0.209/",
-      "created_at": "2020-03-25T18:32:01.732031Z",
-      "updated_at": "2020-03-25T18:32:01.732103Z"
-    },
-    {
-      "version": "0.0.208",
-      "certification": "certified",
-      "href": "/pulp_ansible/galaxy/automation-hub/api/v3/collections/alikins/collection_inspect/versions/0.0.208/",
-      "created_at": "2020-03-25T18:32:01.732031Z",
-      "updated_at": "2020-03-25T18:32:01.732103Z"
-    },
-    {
-      "version": "0.0.207",
-      "certification": "certified",
-      "href": "/pulp_ansible/galaxy/automation-hub/api/v3/collections/alikins/collection_inspect/versions/0.0.207/",
-      "created_at": "2020-03-25T18:32:01.732031Z",
-      "updated_at": "2020-03-25T18:32:01.732103Z"
-    },
-    {
-      "version": "0.0.206",
-      "certification": "certified",
-      "href": "/pulp_ansible/galaxy/automation-hub/api/v3/collections/alikins/collection_inspect/versions/0.0.206/",
-      "created_at": "2020-03-25T18:32:01.732031Z",
-      "updated_at": "2020-03-25T18:32:01.732103Z"
-    },
-    {
-      "version": "0.0.205",
-      "certification": "certified",
-      "href": "/pulp_ansible/galaxy/automation-hub/api/v3/collections/alikins/collection_inspect/versions/0.0.205/",
       "created_at": "2020-03-25T18:32:01.732031Z",
       "updated_at": "2020-03-25T18:32:01.732103Z"
     }

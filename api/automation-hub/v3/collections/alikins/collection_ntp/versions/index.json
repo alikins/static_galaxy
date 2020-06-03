@@ -3,10 +3,10 @@
     "count": 1
   },
   "links": {
-    "first": "/api/automation-hub/content/automation-hub/v3/collections/alikins/collection_ntp/versions/?limit=10&offset=0",
+    "first": "/api/automation-hub/content/automation-hub/v3/collections/alikins/collection_ntp/versions/",
     "previous": null,
     "next": null,
-    "last": "/api/automation-hub/content/automation-hub/v3/collections/alikins/collection_ntp/versions/?limit=10&offset=0"
+    "last": "/api/automation-hub/content/automation-hub/v3/collections/alikins/collection_ntp/versions/"
   },
   "data": [
     {
