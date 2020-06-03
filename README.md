@@ -60,6 +60,25 @@ See <a href="blob/master/conf/nginx/defaults.d/static_galaxy.conf">conf/nginx/de
 for an example of a nginx config that turns a local dir /home/adrian/src/static\_galaxy/
 into a "server" usable by ansible-galaxy.
 
+The only unusual part is making 'index.json' the default index file to search for.
+
+Example nginx config:
+
+```
+location / {
+    root   /www/data/static_galaxy/;
+    index  index.json index.html;
+}
+
+error_page 404 /errors/404.json;
+    location = /errors/40x.json {
+}
+
+error_page 500 502 503 504 /errors/50x.json;
+    location = /errors/50x.json {
+}
+```
+
 
 test / example script
 =====================
