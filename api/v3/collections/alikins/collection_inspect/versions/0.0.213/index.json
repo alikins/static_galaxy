@@ -1,0 +1,89 @@
+{
+  "version": "0.0.213",
+  "certification": "certified",
+  "href": "/pulp_ansible/galaxy/automation-hub/api/v3/collections/alikins/collection_inspect/versions/0.0.213/",
+  "created_at": "2020-03-25T18:32:01.732031Z",
+  "updated_at": "2020-03-25T18:32:01.732103Z",
+  "artifact": {
+    "filename": "alikins-collection_inspect-0.0.213.tar.gz",
+    "sha256": "5d1fb52c549a264ae57baebb603d941f50959b2fc6d96ec2994f6a0f085b02f7",
+    "size": 13461
+  },
+  "collection": {
+    "id": "0570de94-a743-4153-920f-2f96e62d9a7b",
+    "name": "collection_inspect",
+    "href": "/pulp_ansible/galaxy/automation-hub/api/v3/collections/alikins/collection_inspect/"
+  },
+  "download_url": "http://localhost/api/v3/artifacts/collections/automation-hub/alikins-collection_inspect-0.0.213.tar.gz",
+  "name": "collection_inspect",
+  "namespace": {
+    "name": "alikins"
+  },
+  "metadata": {
+    "authors": [
+      "Adrian Likins <alikins@redhat.com>"
+    ],
+    "contents": [
+      {
+        "name": "test_collection_inspect",
+        "description": null,
+        "content_type": "role"
+      },
+      {
+        "name": "get_collection_inspect",
+        "description": null,
+        "content_type": "module"
+      },
+      {
+        "name": "collection_inspect_no_module_utils",
+        "description": null,
+        "content_type": "module"
+      },
+      {
+        "name": "collection_inspect",
+        "description": null,
+        "content_type": "module"
+      },
+      {
+        "name": "collection_inspect",
+        "description": null,
+        "content_type": "module_utils"
+      },
+      {
+        "name": "collection_inspect",
+        "description": null,
+        "content_type": "action"
+      },
+      {
+        "name": "collection_inspect",
+        "description": "minimal Ansible screen output",
+        "content_type": "callback"
+      },
+      {
+        "name": "collection_inspect",
+        "description": null,
+        "content_type": "filter"
+      },
+      {
+        "name": "collection_inspect",
+        "description": "report info about where this plugin was loaded from",
+        "content_type": "lookup"
+      },
+      {
+        "name": "collection_inspect",
+        "description": "In charge of loading group_vars and host_vars",
+        "content_type": "vars"
+      }
+    ],
+    "dependencies": {},
+    "description": "A set of 'collection_inspect' plugins for debugging collection loading",
+    "documentation": "",
+    "homepage": "",
+    "issues": "",
+    "license": [
+      "MIT"
+    ],
+    "repository": "https://github.com/alikins/collection_inspect",
+    "tags": []
+  }
+}

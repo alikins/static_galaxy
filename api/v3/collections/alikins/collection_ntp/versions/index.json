@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "count": 1
+  },
+  "links": {
+    "first": "/api/automation-hub/content/automation-hub/v3/collections/alikins/collection_ntp/versions/?limit=10&offset=0",
+    "previous": null,
+    "next": null,
+    "last": "/api/automation-hub/content/automation-hub/v3/collections/alikins/collection_ntp/versions/?limit=10&offset=0"
+  },
+  "data": [
+    {
+      "version": "0.1.182",
+      "certification": "certified",
+      "href": "/pulp_ansible/galaxy/automation-hub/api/v3/collections/alikins/collection_ntp/versions/0.1.182/",
+      "created_at": "2020-06-03T14:22:48.569605Z",
+      "updated_at": "2020-06-03T14:22:48.569648Z"
+    }
+  ]
+}
