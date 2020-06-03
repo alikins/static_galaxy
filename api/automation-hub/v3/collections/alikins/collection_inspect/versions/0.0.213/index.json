@@ -14,7 +14,7 @@
     "name": "collection_inspect",
     "href": "/pulp_ansible/galaxy/automation-hub/api/v3/collections/alikins/collection_inspect/"
   },
-  "download_url": "http://localhost/api/v3/artifacts/collections/automation-hub/alikins-collection_inspect-0.0.213.tar.gz",
+  "download_url": "http://localhost/api/automation-hub/v3/artifacts/collections/automation-hub/alikins-collection_inspect-0.0.213.tar.gz",
   "name": "collection_inspect",
   "namespace": {
     "name": "alikins"

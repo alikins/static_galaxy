@@ -14,7 +14,7 @@
     "name": "collection_ntp",
     "href": "/pulp_ansible/galaxy/automation-hub/api/v3/collections/alikins/collection_ntp/"
   },
-  "download_url": "http://localhost/api/v3/artifacts/collections/automation-hub/alikins-collection_ntp-0.1.182.tar.gz",
+  "download_url": "http://localhost/api/automation-hub/v3/artifacts/collections/automation-hub/alikins-collection_ntp-0.1.182.tar.gz",
   "name": "collection_ntp",
   "namespace": {
     "name": "alikins"
