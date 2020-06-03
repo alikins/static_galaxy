@@ -1,0 +1,9 @@
+---
+collections:
+ # With just the collection name
+  - name: alikins.collection_ntp
+    version: 0.1.182
+
+  # With the collection name, version, and source options
+  - name: alikins.collection_inspect
+    version: 0.0.213
